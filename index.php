@@ -354,7 +354,7 @@ require_once("db.php");
 
   <footer class="main-footer" style="margin-left: 0px;">
   <div class="text-center">
-      <strong>Petar Novakovic & Nikola Mirovic &copy; 2023 <a href="#">Oglasi za posao</a>.</strong>
+      <strong>Petar Novakovic & Nikola Mirovic &copy; 2023 <a href="https://github.com/pnkg99/oglasi_za_posao_app">Oglasi za posao</a>.</strong>
     </div>
   </footer>
 
